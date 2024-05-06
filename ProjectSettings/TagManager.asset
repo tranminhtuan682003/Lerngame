@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Trap
+  - ladder
+  - player2
+  - teleporter
+  - tilemap
+  - army2
+  - bullet
+  - bulletplayer
+  - Health
+  - TriggerArea
+  - BulletCanon
+  - Canon
+  - laze
+  - Spider
+  - Drone
+  - BulletBlueWiza
+  - Boom
+  - Plane
+  - AudioManager
+  - army3
+  - army4
+  - army5
+  - army6
+  - spawn
+  - chicky
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Map
+  - Trap
+  - background
+  - midbackground
+  - ground
+  - pet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Timer
+    uniqueID: 641869963
+    locked: 0
+  - name: backgroud
+    uniqueID: 136370273
+    locked: 0
+  - name: midbackgroud
+    uniqueID: 3516660021
+    locked: 0
+  - name: tilemap
+    uniqueID: 3860309293
+    locked: 0
+  - name: camera
+    uniqueID: 2309351843
+    locked: 0
